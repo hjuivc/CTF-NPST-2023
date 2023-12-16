@@ -35,6 +35,12 @@ To decrypt the content, the following steps were taken in reverse order:
 
 After successfully running the `pinneved-decrypt.py` script, the output was a series of ASCII art images. These images, when viewed in the correct orientation and order, revealed the hidden message: `PST{ASCII_art_er_kult}`.
 
+### ASCII Art Visualization
+
+Below is the final ASCII art output visualized in `fasit.png`, showing the decrypted message:
+
+![Solution Image](fasit.png)
+
 ## Conclusion
 
 This challenge demonstrated the importance of understanding encryption and decryption processes, pattern recognition in ASCII art, and the necessity of meticulous attention to detail in CTF challenges.
